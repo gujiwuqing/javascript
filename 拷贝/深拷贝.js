@@ -12,6 +12,15 @@ const obj = {
 const o = JSON.parse(JSON.stringify(obj))
 console.log(o);
 
-function test1() {
-
+function deepCopy(object) {
+    if (typeof object!='object') return
+    let newObj = object instanceof Array?[]:{}
+    for (let key in object) {
+        if (object.hasOwnProperty(key)){
+            newObj[key] = typeof object[key]==='object'?deepCopy(object[key]):object[key]
+        }
+    }
+    return newObj
 }
+
+console.log(deepCopy(obj));

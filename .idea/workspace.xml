@@ -20,16 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="284c140a-095b-4b55-b5c9-cd09d83c8dbb" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function/apply.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function/节流&amp;&amp;防抖.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/循环/break.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/拷贝/浅拷贝.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/拷贝/深拷贝.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/类型判断/Object.prototype.toString.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/类型判断/typeof.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/拷贝/深拷贝.js" beforeDir="false" afterPath="$PROJECT_DIR$/拷贝/深拷贝.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,6 +107,8 @@
       <workItem from="1598508636391" duration="2472000" />
       <workItem from="1599450226769" duration="8762000" />
       <workItem from="1599526777993" duration="7986000" />
+      <workItem from="1599613012462" duration="6777000" />
+      <workItem from="1599662190658" duration="959000" />
     </task>
     <servers />
   </component>
@@ -134,25 +128,29 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1599527072266">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1599640047431">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599527072266" />
-    <state width="1342" height="242" key="GridCell.Tab.0.bottom" timestamp="1599566368408">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599640047431" />
+    <state width="1342" height="222" key="GridCell.Tab.0.bottom" timestamp="1599663141668">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="242" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599566368408" />
-    <state width="1342" height="242" key="GridCell.Tab.0.center" timestamp="1599566368407">
+    <state width="1342" height="222" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599663141668" />
+    <state width="1342" height="222" key="GridCell.Tab.0.center" timestamp="1599663141668">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="242" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599566368407" />
-    <state width="1342" height="242" key="GridCell.Tab.0.left" timestamp="1599566368407">
+    <state width="1342" height="222" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599663141668" />
+    <state width="1342" height="222" key="GridCell.Tab.0.left" timestamp="1599663141668">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="242" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599566368407" />
-    <state width="1342" height="242" key="GridCell.Tab.0.right" timestamp="1599566368408">
+    <state width="1342" height="222" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599663141668" />
+    <state width="1342" height="222" key="GridCell.Tab.0.right" timestamp="1599663141668">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="242" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599566368408" />
+    <state width="1342" height="222" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599663141668" />
+    <state x="357" y="194" key="run.anything.popup" timestamp="1599663053871">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="357" y="194" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1599663053871" />
   </component>
 </project>
